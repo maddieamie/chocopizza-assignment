@@ -1,1 +1,249 @@
+* {
+  display: inline-block;
+}
+
+title {
+  display: hidden;
+}
+
+#logotop {
+  display: inline-grid;
+  width: 45px;
+  height: 50px;
+  
+}
+
+#hlogo {
+  width:400px;
+  position: relative;
+ 
+}
+
+#titlebox {
+  display: inline-grid;
+}
+
+#smbox{
+  width: 250px;
+  position: relative;
+}
+
+#title {
+  display: grid;
+  width: 400px;
+}
+
+h2 {
+  font-family: cursive;
+  font-size: 30px;
+  text-decoration: bold;
+  color: black;
+  display: inline-grid;
+  
+}
+
+#asidething {
+   text-transform: uppercase;
+  font-family: sans-serif;
+  color: grey;
+  font-size: 10px;
+  position: relative;
+}
+
+.sm {
+  width: 24px;
+  height: 24px;
+}
+
+div img:nth-child(5) {
+  
+  left: 915px;
+}
+
+div img:nth-child(6) {
+  
+  left: 940px;
+}
+
+div img:nth-child(7) {
+  
+  left: 970px;
+}
+
+div img:nth-child(8) {
+  
+  left: 998px;
+}
+
+div img:nth-child(9) {
+  
+  left: 1024px;
+}
+
+div img:nth-child(10) {
+  
+  left: 1050px;
+}
+
+div img:nth-child(11) {
+  
+  left: 1115px;
+}
+
+#bar1 {
+  top: 120px;
+  left: 180px;
+  width: 960px;
+  height: 15px;
+  background-color: grey;
+}
+
+h1 {
+  font-size: 40px;
+  text-decoration:bold;
+  font-family: sans-serif;
+  top: 200px;
+  left: 182px;
+}
+
+#time {
+  color: grey;
+  font-weight: 100px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  left: 180px;
+  font-size: 20px;
+}
+
+#printer {
+  height: 15px;
+  width: 15px;
+  position: relative;
+  left: 690px;
+}
+
+#ppp {
+  font-weight: 100px;
+  font-family: sans-serif;
+  color: grey;
+  left: 700px;
+  position: relative;
+  
+}
+
+#pizza {
+  left: 180px;
+  top: 290px;
+  width: 960px;
+  height: 650px;
+}
+
+#rrrr {
+  width: 950px;
+}
+
+.rr {
+  color: grey;
+  font-family: serif;
+  padding-bottom: 30px;
+  
+}
+
+#list {
+  top: 1340px;
+  left: 180px;
+  width: 960px;
+  height: 305px;
+}
+
+#bar2 {
+  top: 1700px;
+  left: 180px;
+  width: 960px;
+  height: 15px;
+  background-color: grey;
+}
+
+#footerbox {
+  width: 700px;
+}
+
+#profile {
+  top: 1740px;
+  left: 180px;
+  width: 75px;
+  height: 80px;
+  
+}
+
+#foottext {
+  width: 450px;
+  position: relative;
+}
+#name {
+  color: grey;
+  font-family: serif;
+  text-decoration: bold;
+  font-size: 18px;
+  top: 1745px;
+  left: 280px;
+}
+
+#bio {
+  color: grey;
+  font-family: serif;
+  font-size: 15px;
+  top: 1785px;
+  left: 280px;
+}
+
+button {
+  color:white;
+  background-color: orange;
+  width: 200px;
+  height: 60px;
+  top: 1700px;
+  left: 945px;
+}
+
+#line1 {
+  width: 450px;
+  height: 2px;
+  top: 1930px;
+  left: 185px;
+  background-color: grey;
+}
+
+#line2 {
+  width: 450px;
+  height: 2px;
+  top: 1930px;
+  left: 690px;
+  background-color: grey;
+}
+
+#smol {
+  top: 1915px;
+  left: 500px;
+  width: 30px;
+  height: 35px;
+}
+
+.f {
+  font-weight: 100px;
+  color: grey;
+  font-family: serif;
+  font-size: 9px;
+}
+
+footer:first-child {
+  top: 1985px;
+  width: 450px;
+}
+
+footer:last-child {
+  top: 2010px;
+  width: 450px;
+}
+
 
