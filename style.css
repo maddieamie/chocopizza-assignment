@@ -19,19 +19,14 @@ title {
  
 }
 
-#titlebox {
-  display: inline-grid;
-}
+
 
 #smbox{
   width: 250px;
   position: relative;
 }
 
-#title {
-  display: grid;
-  width: 400px;
-}
+
 
 h2 {
   font-family: cursive;
@@ -245,5 +240,6 @@ footer:last-child {
   top: 2010px;
   width: 450px;
 }
+
 
 
